@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Indoor</string>
+    <string name = "button_update">Update</string>
+    <string name = "button_bluetooth">Bluetooth</string>
+</resources>
